@@ -5,4 +5,4 @@ format: jb-book
 root: docs/intro.md
 chapters:
 - file: docs/markdown.md
-- file: docs/notebooks.ipynd
+- file: docs/notebooks.ipynb
